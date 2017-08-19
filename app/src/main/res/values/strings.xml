@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AccountDetail</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="icnum">IC Number</string>
+    <string name="contactnum">Contact Number</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="pin">Pin</string>
+</resources>
